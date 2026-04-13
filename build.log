@@ -1,0 +1,15 @@
+Start building sites … 
+hugo v0.160.1-d6bc8165e62b29d7d70ede01ed01d0f88de327e6 windows/amd64 BuildDate=2026-04-08T14:02:42Z VendorInfo=gohugoio
+
+
+                  │ KO │ EN 
+──────────────────┼────┼────
+ Pages            │ 11 │  9 
+ Paginator pages  │  0 │  0 
+ Non-page files   │  0 │  0 
+ Static files     │  0 │  0 
+ Processed images │  0 │  0 
+ Aliases          │  1 │  0 
+ Cleaned          │  0 │  0 
+
+Total in 124 ms
